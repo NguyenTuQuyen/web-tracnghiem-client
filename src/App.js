@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import { HomePage } from './components/HomePage/HomePage';
-import  LoginPage  from './components/LoginPage/LoginPage';
+import { HomePage } from './pages-client/HomePage/HomePage';
+import  LoginPage  from './pages-client/LoginPage/LoginPage';
 
 class App extends Component{
     

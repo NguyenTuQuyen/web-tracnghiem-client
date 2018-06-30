@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nguyen",
+      "code": 123,
+      "submitted":false 
+    },
+    {
+      "id": 2,
+      "username": "Tu",
+      "code": 123,
+      "submitted":false 
+    },
+    {
+      "id": 3,
+      "username": "Quyen",
+      "code": 123,
+      "submitted":true 
+    }
+  
+  ]
+  
+}
